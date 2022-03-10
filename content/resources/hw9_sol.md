@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw9_sol.pdf
 uid: 7843dbfb-62b5-d9fd-797a-fd10e4407442
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

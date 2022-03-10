@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ps5.pdf
 uid: 6648c08a-a985-1a8b-13e1-b3ece5f539af
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

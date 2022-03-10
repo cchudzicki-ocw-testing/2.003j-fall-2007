@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: matlab_hw72.zip
 uid: 06fe80c0-9af3-e06a-14ba-55d2672e1c63
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

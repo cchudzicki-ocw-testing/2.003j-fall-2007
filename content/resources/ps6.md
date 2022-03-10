@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ps6.pdf
 uid: 503b79bd-0fe4-5001-3d40-7f97ae29463c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

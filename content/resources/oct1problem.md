@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: oct1problem.pdf
 uid: 1205dffc-f732-0bff-8bc5-b19e28421424
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

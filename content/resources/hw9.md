@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw9.pdf
 uid: 8a1477b7-2bb2-0aab-d2cd-e8cf27cf2111
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: matlab_hw2.zip
 uid: 9d4a84f7-c846-df43-afd7-c5f6bd754d85
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

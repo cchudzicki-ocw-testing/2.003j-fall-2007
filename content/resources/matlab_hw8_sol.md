@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: matlab_hw8_sol.zip
 uid: 13abeb53-3a2a-cb69-e6d4-0888a9b7b365
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

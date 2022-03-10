@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: MATLAB Sessions
 uid: e591073d-637f-2015-2c3a-dfe6470dee71
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 MATLAB® sessions are taught by Professor Peter T. C. So. They meet once per week; some sessions are lecture and others are devoted to in-class exercise.

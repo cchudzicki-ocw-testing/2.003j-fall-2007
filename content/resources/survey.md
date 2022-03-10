@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: survey.pdf
 uid: d831e5f1-4e49-0287-599a-77d34648ff98
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

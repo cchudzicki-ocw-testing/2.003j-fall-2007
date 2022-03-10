@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: exam2_f06.pdf
 uid: 439dc48b-793a-88f2-4321-6b49cb2c7ad0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

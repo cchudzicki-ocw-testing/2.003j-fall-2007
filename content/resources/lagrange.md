@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lagrange.pdf
 uid: 9a45c8a9-cfbd-2434-9898-13431d6db1d4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: matlab_hw4.zip
 uid: 853d2e85-6b4a-4944-9915-88f48ed5031b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

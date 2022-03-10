@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: final.pdf
 uid: 208aa4c3-002d-23bd-450a-e6fc0611b6cb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

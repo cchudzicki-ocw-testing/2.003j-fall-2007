@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: rigid_bodies.pdf
 uid: 0e133cda-ed77-c88d-433c-55da8cea520d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

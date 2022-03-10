@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: matlab3.pdf
 uid: 33cfa56e-fd96-ed77-6662-68f650fc879a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

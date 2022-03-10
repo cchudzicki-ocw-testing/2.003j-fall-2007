@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: final_f06.pdf
 uid: 8b81a994-478e-2516-43cf-1e64b853949e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

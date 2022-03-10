@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: matlab_intro.pdf
 uid: d7a6ca80-a745-51a4-7b74-affde76abdc6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw8_sol.pdf
 uid: ec6ade09-14ce-4d7f-69ed-e266d2298edc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

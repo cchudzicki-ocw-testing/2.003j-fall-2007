@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw7_1_sol.pdf
 uid: 44c16c46-95a7-629d-7065-a10cccf1b49f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

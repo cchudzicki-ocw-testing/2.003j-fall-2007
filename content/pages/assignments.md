@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 2cecd7cb-e2e9-7511-8d97-ba6e4895727d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Problem Set 1 ({{% resource_link a67841a3-064b-3862-e020-e89c2efba41d "PDF" %}})
@@ -13,7 +17,7 @@ Problem Set 2 ({{% resource_link aeef4d89-a15b-58c9-7659-f8d7c6eb09e1 "PDF" %}})
 
 Problem Set 3 ({{% resource_link 78abb9c6-39c9-bd61-661a-f8cee61470d6 "PDF" %}})
 
-Problem Set 3 ({{% resource_link 78abb9c6-39c9-bd61-661a-f8cee61470d6 "PDF" %}}); supplemental instructions ([TXT](/courses/mechanical-engineering/2-003j-dynamics-and-control-i-fall-2007/assignments/ps3_note.txt))
+Problem Set 3 ({{% resource_link 78abb9c6-39c9-bd61-661a-f8cee61470d6 "PDF" %}}); supplemental instructions ({{% resource_link 10da76b8-5eca-866e-8e58-81fdd855dd8b "TXT" %}})
 
 Problem Set 4 ({{% resource_link a3c2e829-007d-ae98-27d4-6533040477dd "PDF" %}})
 

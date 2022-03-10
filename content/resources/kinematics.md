@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: kinematics.pdf
 uid: dfeddd3f-1feb-4d82-ef16-1b066f6a6ba5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

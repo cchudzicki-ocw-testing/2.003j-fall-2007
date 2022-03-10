@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: d9e55a5b-0459-56e5-d20b-269f1fb7dcd5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The cited chapter/section numbers are in the course textbook:

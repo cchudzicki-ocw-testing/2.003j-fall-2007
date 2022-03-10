@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw2_sol.pdf
 uid: f870aab6-ce5c-687a-e8ef-5521bd11f622
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

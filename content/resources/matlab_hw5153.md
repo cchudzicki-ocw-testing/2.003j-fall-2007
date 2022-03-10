@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: matlab_hw5153.zip
 uid: cbb796c2-4d39-f5f6-44f3-ddadf82e4179
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

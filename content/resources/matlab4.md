@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: matlab4.pdf
 uid: 3b84b842-2a1d-e9ed-2edd-60601cc3bb72
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

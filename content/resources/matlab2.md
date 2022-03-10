@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: matlab2.pdf
 uid: 36e7be45-b1dc-f745-9f21-02b2dd631782
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

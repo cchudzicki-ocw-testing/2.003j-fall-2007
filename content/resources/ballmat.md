@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: ballmat.mat
 uid: e6a14efe-0358-8c91-df74-cd8c4b83b492
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: matlab5.pdf
 uid: e5dc255f-7d9a-f9f0-110d-6ec569e0d2e1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
